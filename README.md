@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+[Ver app Desplegada](https://celebrated-palmier-93d84b.netlify.app/)
